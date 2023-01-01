@@ -1,5 +1,5 @@
 using System.Text;
-public class HexadecimalConverter : Converter
+public class HexadecimalConverter : Converter, IHexadecimalConverter
 {
     public HexadecimalConverter(int decimalNumber)
     : base(decimalNumber)

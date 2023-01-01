@@ -1,0 +1,32 @@
+Program is starting...
+The number to convert is: 28
+The selected base type is: Binary
+Using the converter: BinaryConverter
+The result is: The Result is: 11100 
+Program is ending..
+&_________________&
+
+Program is starting...
+The number to convert is: 11
+The selected base type is: Octal
+Using the converter: OctalConverter
+The result is: The Result is: 13 
+Program is ending..
+&_________________&
+
+Program is starting...
+The number to convert is: 11
+The selected base type is: Octal
+Using the converter: OctalConverter
+The result is: The Result is: 13 
+Program is ending..
+&_________________&
+
+Program is starting...
+The number to convert is: 17
+The selected base type is: Binary
+Using the converter: BinaryConverter
+The result is: The Result is: 10001 
+Program is ending..
+&_________________&
+
