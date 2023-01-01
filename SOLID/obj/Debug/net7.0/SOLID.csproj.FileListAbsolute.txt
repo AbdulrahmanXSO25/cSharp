@@ -1,0 +1,15 @@
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\bin\Debug\net7.0\SOLID.exe
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\bin\Debug\net7.0\SOLID.deps.json
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\bin\Debug\net7.0\SOLID.runtimeconfig.json
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\bin\Debug\net7.0\SOLID.dll
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\bin\Debug\net7.0\SOLID.pdb
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\obj\Debug\net7.0\SOLID.csproj.AssemblyReference.cache
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\obj\Debug\net7.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfo.cs
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\obj\Debug\net7.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\obj\Debug\net7.0\SOLID.dll
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\obj\Debug\net7.0\refint\SOLID.dll
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\obj\Debug\net7.0\SOLID.pdb
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\obj\Debug\net7.0\SOLID.genruntimeconfig.cache
+C:\Users\AbdUrrahman\Desktop\cSharp\SOLID\obj\Debug\net7.0\ref\SOLID.dll

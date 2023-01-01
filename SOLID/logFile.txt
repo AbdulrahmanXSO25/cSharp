@@ -1,0 +1,24 @@
+Program is starting...
+The number to convert is: 28
+The selected base type is: Binary
+Using the converter: BinaryConverter
+The result is: The Result is: 11100 
+Program is ending..
+&_________________&
+
+Program is starting...
+The number to convert is: 253
+The selected base type is: Hexadecimal
+Using the converter: HexadecimalConverter
+The result is: The Result is: FD 
+Program is ending..
+&_________________&
+
+Program is starting...
+The number to convert is: 66
+The selected base type is: Binary
+Using the converter: BinaryConverter
+The result is: The Result is: 1000010 
+Program is ending..
+&_________________&
+
